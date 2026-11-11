@@ -1,6 +1,6 @@
 # TeamoRouter — 一个 Key，调用全球主流大模型
 
-邀请链接：https://teamorouter.com/?i=8050c713f2
+邀请链接：https://teamorouter.ai/?i=8050c713f2
 
 邀请码：8050c713f2
 
